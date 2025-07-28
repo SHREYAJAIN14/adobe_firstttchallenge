@@ -1,0 +1,6 @@
+services:
+  challenge1a:
+    image: challenge1a
+    build:
+      context: .
+      dockerfile: ./Dockerfile
